@@ -1,0 +1,12 @@
+# Czego tu szukasz?
+
+
+name: Custom-Durability
+version: '${project.version}'
+main: com.top1.customdurability.Main
+api-version: 1.18
+website: www.migmahost.pl / www.dsc.gg/mimicode
+
+commands:
+  customdurability:
+    description: CustomDurability
