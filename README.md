@@ -1,2 +1,2 @@
 # Custom-Durability
-Plugin na mimicode
+Here's a plugin for custom Durability unfinished gives sorce code so someone can use it 
